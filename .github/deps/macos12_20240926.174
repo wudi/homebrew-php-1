@@ -1,4 +1,5 @@
 gettext
+icu4c
 jpeg-xl
 libpq
 libssh2
