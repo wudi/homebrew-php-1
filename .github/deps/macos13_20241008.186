@@ -1,3 +1,6 @@
+curl
 gettext
+icu4c@75
+libpq
 libssh2
 openexr
