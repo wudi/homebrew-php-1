@@ -1,3 +1,4 @@
 curl
+libpq
 openexr
 openssl@1.1
