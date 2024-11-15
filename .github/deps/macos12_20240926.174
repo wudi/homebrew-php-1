@@ -2,7 +2,6 @@ curl
 gettext
 icu4c
 jpeg-xl
-libpq
 libssh2
 libtool
 openexr
