@@ -1,5 +1,10 @@
 aom
 curl
+jpeg-turbo
+jpeg-xl
+little-cms2
 libpq
+libtiff
 openexr
 openssl@1.1
+webp
