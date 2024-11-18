@@ -1,5 +1,10 @@
 aom
 curl
 icu4c@75
+jpeg-turbo
+jpeg-xl
+little-cms2
 libpq
+libtiff
 openexr
+webp
