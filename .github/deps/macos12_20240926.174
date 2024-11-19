@@ -2,7 +2,11 @@ aom
 curl
 gettext
 icu4c
+jpeg-turbo
 jpeg-xl
+little-cms2
 libssh2
+libtiff
 libtool
 openexr
+webp
