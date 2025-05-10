@@ -1,2 +1,4 @@
 gettext
+libavif
+libpq
 openssl@1.1
