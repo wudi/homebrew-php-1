@@ -3,3 +3,4 @@ imath
 jpeg-xl
 openexr
 openssl@1.1
+zstd
