@@ -2,6 +2,7 @@ aom
 curl
 fontconfig
 jpeg-xl
+libunistring
 openexr
 openldap
 openssl@1.1
