@@ -1,4 +1,5 @@
 curl
+libunistring
 openexr
 openjph
 openssl@1.1
