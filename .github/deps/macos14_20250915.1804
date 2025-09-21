@@ -1,3 +1,5 @@
 freetype
+gcc
+libtiff
 openjph
 openssl@1.1
