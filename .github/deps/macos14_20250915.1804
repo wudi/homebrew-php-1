@@ -1,5 +1,7 @@
 freetype
 gcc
 libtiff
+openexr
 openjph
 openssl@1.1
+sqlite
