@@ -1,5 +1,6 @@
 freetype
 gcc
+libnghttp3
 libtiff
 openexr
 openjph
