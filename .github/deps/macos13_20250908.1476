@@ -1,5 +1,6 @@
 curl
 freetype
+libnghttp3
 libtiff
 libunistring
 openexr
