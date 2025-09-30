@@ -2,7 +2,6 @@ curl
 freetype
 libnghttp3
 libtiff
-libunistring
 openexr
 openjph
 openssl@1.1
