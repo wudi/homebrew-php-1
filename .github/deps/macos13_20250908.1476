@@ -6,3 +6,4 @@ openexr
 openjph
 openssl@1.1
 sqlite
+unixodbc
