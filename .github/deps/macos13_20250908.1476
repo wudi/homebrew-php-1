@@ -1,10 +1,10 @@
+brotli
 curl
 freetype
+gettext
 imath
 libavif
 libnghttp3
 libtiff
 openexr
 openjph
-openssl@1.1
-sqlite
