@@ -1,5 +1,6 @@
 curl
 gettext
+krb5
 openexr
 openjph
 sqlite
