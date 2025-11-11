@@ -2,8 +2,11 @@ brotli
 freetype
 gettext
 imath
+krb5
 libavif
 libnghttp3
 libtiff
 openexr
 openjph
+openssl@1.1
+sqlite
