@@ -1,10 +1,12 @@
 brotli
 freetype
 gettext
+icu4c@77
 imath
 krb5
 libavif
 libnghttp3
+libpq
 libtiff
 openexr
 openjph
