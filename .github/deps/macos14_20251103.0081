@@ -2,7 +2,6 @@ curl
 gettext
 icu4c@77
 krb5
-libpq
 openexr
 openjph
 sqlite
